@@ -1,10 +1,10 @@
 # Credit_card_finance_dashboard
 PowerBi Dashboard
 
-Project Objective:
+<b>Project Objective:<b>
 To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyse credit card operations effectively.
 
-Project Insights:<br/>
+<b>Project Insights:<b><br/>
 1.Revenue increased by 28.8%.<br/>
 2.Overall revenue is 57M.<br/>
 3.Total interest is 8M.<br/>
